@@ -21,7 +21,6 @@ A console-based Shoe Store Management System built using **Python** and **MySQL 
 - **Buy Shoes**
 - **Get 5% Discount** as a returning customer
 - **View Available Products**
-- **Generate & Save Bills**
 
 ### 🧑‍💼 Employee Features
 - **Secure Sign-In**
