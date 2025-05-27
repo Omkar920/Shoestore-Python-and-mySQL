@@ -1,0 +1,5 @@
+IPython==8.27.0
+mySQL Connector==9.3.0
+mySQL==8.0.41
+pandas==2.2.2
+python==3.12.7
